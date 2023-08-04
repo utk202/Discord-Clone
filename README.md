@@ -12,15 +12,20 @@ The goal of this project was to replicate the key features and user interface of
 
 ### Features      
     
-User Authentication:   *Users can sign up, log in, and log out using their Google account through Firebase Authentication.*
+User Authentication:  
+*Users can sign up, log in, and log out using their Google account through Firebase Authentication.*
 
-Real-time Messaging: *Messages are sent and received in real-time using Firebase Firestore, allowing for instant communication between users.*
+Real-time Messaging:   
+*Messages are sent and received in real-time using Firebase Firestore, allowing for instant communication between users.*
 
-Server and Channel Creation: *Users can create servers and channels within those servers to organize conversations effectively.*
+Server and Channel Creation:  
+*Users can create servers and channels within those servers to organize conversations effectively.*
 
-Text Messaging: *Users can send text messages within channels and view messages in real-time.*
+Text Messaging:  
+*Users can send text messages within channels and view messages in real-time.*
 
-Redux State Management: *Redux is used to manage the global state of the application, ensuring a smooth and consistent user experience.*
+Redux State Management:  
+*Redux is used to manage the global state of the application, ensuring a smooth and consistent user experience.*
 
 ### Setup    
     
