@@ -2,7 +2,7 @@
 
 
 
-## Description  
+### Description  
     
 This project is an exact clone of the popular chat and communication platform Discord. It is built using JavaScript (React), HTML, and CSS for the frontend, with Redux for state management. The project also utilizes Firebase for real-time database and user authentication.
 
@@ -22,7 +22,7 @@ Text Messaging: Users can send text messages within channels and view messages i
 
 Redux State Management: Redux is used to manage the global state of the application, ensuring a smooth and consistent user experience.
 
-#### Setup    
+### Setup    
     
 
 ```markdown
