@@ -20,5 +20,6 @@ Redux State Management: Redux is used to manage the global state of the applicat
 
 #**Setup**
 
+```markdown
 NODE_OPTIONS="--openssl-legacy-provider" yarn start
 
