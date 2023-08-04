@@ -12,7 +12,7 @@ The goal of this project was to replicate the key features and user interface of
 
 ### Features      
     
-User Authentication: Users can sign up, log in, and log out using their Google account through Firebase Authentication.
+*#User Authentication*:   Users can sign up, log in, and log out using their Google account through Firebase Authentication.
 
 Real-time Messaging: Messages are sent and received in real-time using Firebase Firestore, allowing for instant communication between users.
 
