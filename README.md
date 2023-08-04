@@ -1,8 +1,8 @@
 # DiscordClone
 
 
-# desc
-**Description** 
+
+*# Description** 
     
 This project is an exact clone of the popular chat and communication platform Discord. It is built using JavaScript (React), HTML, and CSS for the frontend, with Redux for state management. The project also utilizes Firebase for real-time database and user authentication.
 
