@@ -43,7 +43,7 @@ function Home() {
 
         <div className="bg-[#2f3136] flex flex-col min-w-max">
           <h2 className="flex text-white font-bold text-sm items-center justify-between border-b border-gray-800 p-4 hover:bg-[#34373C] cursor-pointer">
-            Diya Ashish's Server <ChevronDownIcon className="h-5 ml-2" />
+            Utkarsh Gupta's Server <ChevronDownIcon className="h-5 ml-2" />
           </h2>
           <div className="text-[#8e9297] flex-grow overflow-y-scroll scrollbar-hide">
             <div className="flex items-center p-2 mb-2">
